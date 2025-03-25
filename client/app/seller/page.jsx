@@ -128,7 +128,7 @@ const AddProduct = () => {
           ADD
         </button>
       </form>
-      {/* <Footer /> */}
+      
     </div>
   );
 };
